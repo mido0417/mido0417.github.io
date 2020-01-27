@@ -40,7 +40,7 @@ module.exports = {
       ],
       copyright: [
         {
-          text: "Billy Chin © 2020",
+          text: "Mido lin © 2020",
           link: ""
         }
       ]

@@ -8,7 +8,7 @@
   },
   "scripts": {
     "dev": "vuepress dev blog",
-    "build": "vuepress build blog"
+    "docs:build": "vuepress build blog"
   },
   "license": "MIT",
   "devDependencies": {

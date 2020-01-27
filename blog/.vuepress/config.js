@@ -31,11 +31,11 @@ module.exports = {
       contact: [
         {
           type: "github",
-          link: "https://github.com/newsbielt703"
+          link: "https://github.com/mido0417"
         },
         {
           type: "mail",
-          link: "mailto:newsbielt703@gmail.com"
+          link: "mailto:midorin6497@gmail.com"
         }
       ],
       copyright: [

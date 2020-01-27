@@ -2,6 +2,9 @@ module.exports = {
   title: 'Hello, Mido',
   description: 'A blog powered by VuePress',
   theme: '@vuepress/theme-blog', // OR shortcut: @vuepress/blog
+  head:[
+    ['link', { rel: "shortcut icon", type: "image/x-icon", href: "/favicon.ico" }],
+  ],
   themeConfig: {
     /**
      * Ref: https://vuepress-theme-blog.ulivz.com/config/#dateformat

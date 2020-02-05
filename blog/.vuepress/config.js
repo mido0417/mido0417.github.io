@@ -19,7 +19,11 @@ module.exports = {
     nav: [
       {
         text: 'Blog',
-        link: '/',
+        link: '/tag/blog/',
+      },
+      {
+        text: 'Drupal',
+        link: '/tag/drupal/',
       },
       {
         text: 'Tags',

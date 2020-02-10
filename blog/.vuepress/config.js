@@ -26,8 +26,8 @@ module.exports = {
 
     nav: [
       {
-        text: 'Blog',
-        link: '/tag/blog/',
+        text: 'Life',
+        link: '/tag/life/',
       },
       {
         text: 'Drupal',

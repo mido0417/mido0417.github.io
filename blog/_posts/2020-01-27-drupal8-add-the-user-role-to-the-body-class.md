@@ -28,10 +28,10 @@ function YOU_THEME_NAME_preprocess_html(&$variables)
 }
 ```
 
-![add user role to the body class](https://images.plurk.com/69PnFGW7JvbueZEmp34KtF.png)
+![add user role to the body class](https://images.plurk.com/69PnFGW7JvbueZEmp34KtF.png)  
 清快取之後就能在body上面看到成果囉！
 
 
 
-參考資料
+參考資料  
 [Drupal Answers](https://drupal.stackexchange.com/questions/195203/add-the-user-role-to-the-body-class)

@@ -5,6 +5,14 @@ module.exports = {
   head:[
     ['link', { rel: "shortcut icon", type: "image/x-icon", href: "/favicon.ico" }],
   ],
+  plugins:[
+    [
+      '@vuepress/google-analytics',
+      {
+        'ga': 'UA-112751191-1' // UA-00000000-0
+      }
+    ],
+  ],
   themeConfig: {
     /**
      * Ref: https://vuepress-theme-blog.ulivz.com/config/#dateformat
